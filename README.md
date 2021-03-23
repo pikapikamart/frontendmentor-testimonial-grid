@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-Live Site URL: [Live site of the challenge hosted here](https://pikapikamart.github.io/frontendmentor-testimonial-grid/)
+Live Site URL: [Live site of the challenge hosted here](https://pikapikamart.github.io/frontendmentor-loopstudio/)
 
 ## My process
 

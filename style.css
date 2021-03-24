@@ -46,9 +46,7 @@ p {
       grid-template-columns: repeat(4, 255px);
   -ms-grid-rows: (282px)[2];
       grid-template-rows: repeat(2, 282px);
-  height: 100%;
   padding: 164px 165px;
-  width: 100%;
 }
 
 .grid > div {
